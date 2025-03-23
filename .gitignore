@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+.ipynb_checkpoints
+.idea
+.vscode
+*.egg-info/
+dist/
+build/
